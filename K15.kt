@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 class Solution {
 
 fun isPalindromeEasy(x: Int): Boolean {
